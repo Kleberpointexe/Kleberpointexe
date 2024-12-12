@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kleberpointexe
 - 👀 I’m interested in programming in general
-- 🌱 I’m currently learning python,javascript,HTML,css
+- 🌱 I’m currently learning Ml,c, python and AI in general
 - 💞️ I’m looking to collaborate on posting projects that im learning
 - 📫 How to reach me kleberlucaspro@gmail.com
 
