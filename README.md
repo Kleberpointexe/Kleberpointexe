@@ -10,6 +10,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   ##
+  
 - 👀 I’m interested in programming in general
 - 🌱 I’m currently learning ML,c, python and AI in general
 - 💞️ I’m looking to collaborate on posting projects that im learning
